@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="27" passed="27">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12430" started-at="2017-11-01T21:42:40Z" finished-at="2017-11-01T21:42:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12430" started-at="2017-11-01T21:42:40Z" finished-at="2017-11-01T21:42:53Z">
+      <class name="maven.MAVENHEADLESS.SearchHLess">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="beforeMethod" is-config="true" duration-ms="175" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="acorn1" duration-ms="174" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=SearchHLess.acorn1()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="beforeMethod" is-config="true" duration-ms="184" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="acorn2" duration-ms="103" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=SearchHLess.acorn2()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="beforeMethod" is-config="true" duration-ms="187" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="acorn3" duration-ms="105" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:53Z" finished-at="2017-11-01T16:42:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=SearchHLess.acorn3()[pri:0, instance:maven.MAVENHEADLESS.SearchHLess@f9b8bc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.SearchHLess -->
+      <class name="maven.MAVENHEADLESS.onlinesampling">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="beforeMethod" is-config="true" duration-ms="2157" started-at="2017-11-01T16:42:40Z" finished-at="2017-11-01T16:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="acorn1" duration-ms="341" started-at="2017-11-01T16:42:42Z" finished-at="2017-11-01T16:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="afterMethod" is-config="true" duration-ms="15" started-at="2017-11-01T16:42:43Z" finished-at="2017-11-01T16:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=onlinesampling.acorn1()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="beforeMethod" is-config="true" duration-ms="367" started-at="2017-11-01T16:42:43Z" finished-at="2017-11-01T16:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="acorn2" duration-ms="305" started-at="2017-11-01T16:42:43Z" finished-at="2017-11-01T16:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:43Z" finished-at="2017-11-01T16:42:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=onlinesampling.acorn2()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="beforeMethod" is-config="true" duration-ms="483" started-at="2017-11-01T16:42:43Z" finished-at="2017-11-01T16:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="acorn3" duration-ms="283" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=onlinesampling.acorn3()[pri:0, instance:maven.MAVENHEADLESS.onlinesampling@6ae04d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.onlinesampling -->
+      <class name="maven.MAVENHEADLESS.CartHLess">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="beforeMethod" is-config="true" duration-ms="199" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="acorn1" duration-ms="109" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=CartHLess.acorn1()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="beforeMethod" is-config="true" duration-ms="213" started-at="2017-11-01T16:42:44Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="acorn2" duration-ms="121" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=CartHLess.acorn2()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="beforeMethod" is-config="true" duration-ms="194" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="acorn3" duration-ms="105" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=CartHLess.acorn3()[pri:0, instance:maven.MAVENHEADLESS.CartHLess@115b42e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.CartHLess -->
+      <class name="maven.MAVENHEADLESS.PS_HLess">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="beforeMethod" is-config="true" duration-ms="299" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="acorn1" duration-ms="192" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=PS_HLess.acorn1()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="beforeMethod" is-config="true" duration-ms="261" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="acorn2" duration-ms="186" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=PS_HLess.acorn2()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="beforeMethod" is-config="true" duration-ms="264" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="acorn3" duration-ms="192" started-at="2017-11-01T16:42:47Z" finished-at="2017-11-01T16:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=PS_HLess.acorn3()[pri:0, instance:maven.MAVENHEADLESS.PS_HLess@6a3f77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.PS_HLess -->
+      <class name="maven.MAVENHEADLESS.Rollup_Literacy">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="beforeMethod" is-config="true" duration-ms="543" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="acorn1" duration-ms="199" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=Rollup_Literacy.acorn1()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="beforeMethod" is-config="true" duration-ms="283" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="acorn2" duration-ms="241" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=Rollup_Literacy.acorn2()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="beforeMethod" is-config="true" duration-ms="269" started-at="2017-11-01T16:42:50Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="acorn3" duration-ms="197" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=Rollup_Literacy.acorn3()[pri:0, instance:maven.MAVENHEADLESS.Rollup_Literacy@b2c100] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.Rollup_Literacy -->
+      <class name="maven.MAVENHEADLESS.PSZj4a">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="beforeMethod" is-config="true" duration-ms="157" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="acorn1" duration-ms="85" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=PSZj4a.acorn1()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="beforeMethod" is-config="true" duration-ms="141" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="acorn2" duration-ms="65" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=PSZj4a.acorn2()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="beforeMethod" is-config="true" duration-ms="147" started-at="2017-11-01T16:42:51Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="acorn3" duration-ms="66" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:52Z" finished-at="2017-11-01T16:42:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=PSZj4a.acorn3()[pri:0, instance:maven.MAVENHEADLESS.PSZj4a@d94a8b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.PSZj4a -->
+      <class name="maven.MAVENHEADLESS.PS1gWt">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="beforeMethod" is-config="true" duration-ms="271" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="acorn1" duration-ms="123" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=PS1gWt.acorn1()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="beforeMethod" is-config="true" duration-ms="215" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="acorn2" duration-ms="126" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=PS1gWt.acorn2()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="beforeMethod" is-config="true" duration-ms="223" started-at="2017-11-01T16:42:48Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="acorn3" duration-ms="170" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=PS1gWt.acorn3()[pri:0, instance:maven.MAVENHEADLESS.PS1gWt@1f2a3a5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.PS1gWt -->
+      <class name="maven.MAVENHEADLESS.PNP">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="beforeMethod" is-config="true" duration-ms="122" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="acorn1" duration-ms="56" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=PNP.acorn1()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="beforeMethod" is-config="true" duration-ms="128" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="acorn2" duration-ms="50" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=PNP.acorn2()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="beforeMethod" is-config="true" duration-ms="128" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="acorn3" duration-ms="47" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.PNP@43840]" name="afterMethod" is-config="true" duration-ms="3" started-at="2017-11-01T16:42:49Z" finished-at="2017-11-01T16:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=PNP.acorn3()[pri:0, instance:maven.MAVENHEADLESS.PNP@43840] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.PNP -->
+      <class name="maven.MAVENHEADLESS.pshomeschool">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="beforeMethod" is-config="true" duration-ms="271" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn1()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="acorn1" duration-ms="137" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn1 status=SUCCESS method=pshomeschool.acorn1()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="beforeMethod" is-config="true" duration-ms="216" started-at="2017-11-01T16:42:45Z" finished-at="2017-11-01T16:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn2()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="acorn2" duration-ms="154" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn2 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="afterMethod" is-config="true" duration-ms="12" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn2 status=SUCCESS method=pshomeschool.acorn2()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="beforeMethod" is-config="true" duration-ms="203" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="acorn3()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="acorn3" duration-ms="116" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acorn3 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54]" name="afterMethod" is-config="true" duration-ms="2" started-at="2017-11-01T16:42:46Z" finished-at="2017-11-01T16:42:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acorn3 status=SUCCESS method=pshomeschool.acorn3()[pri:0, instance:maven.MAVENHEADLESS.pshomeschool@addb54] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- maven.MAVENHEADLESS.pshomeschool -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
