@@ -43,25 +43,18 @@ public class Oasis {
 		  
 		   
 		  
-		  Set<Cookie> cookiesList =  driver.manage().getCookies();
-			for(Cookie getcookies :cookiesList) {
-				
-				if (getcookies.getName().contains("LB")) {
-			    System.out.print(getcookies.getName() +"  "+ getcookies.getValue() + " OASIS ");
-				}else {}
-			}
 			
 			
-			if (result.getStatus() == ITestResult.SUCCESS) {
-				System.out.println("");
+		if (result.getStatus() == ITestResult.SUCCESS) {
+				System.out.println("OASIS OK");
 			   } 
 			
 			if (result.getStatus() == ITestResult.FAILURE) {
-				System.out.println(" >>> failed ");
+				System.out.println("OASIS >>> failed ");
 			   } 
 			
 			if (result.getStatus() == ITestResult.SKIP) {
-				System.out.println(" >>> skipped ");
+				System.out.println("OASIS >>> skipped ");
 			   } 
 			
 		  driver.close();
