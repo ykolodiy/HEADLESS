@@ -21,7 +21,7 @@ public class onlinesampling {
 		  Cookie name = new Cookie("LB", "acorn1");
 			driver.manage().addCookie(name);
 			driver.get(u);
-			  Assert.assertEquals(driver.getTitle(), "Online Samples");
+			  Assert.assertEquals(driver.getTitle(), "Instructional Resources | K-12 Education Solutions | Pearson");
 			  
 		  
 		  
@@ -32,7 +32,7 @@ public class onlinesampling {
 		  Cookie name = new Cookie("LB", "acorn2");
 			driver.manage().addCookie(name);
 			driver.get(u);
-			  Assert.assertEquals(driver.getTitle(), "Online Samples");
+			  Assert.assertEquals(driver.getTitle(), "Instructional Resources | K-12 Education Solutions | Pearson");
 			  
 	  }
 	  
@@ -42,7 +42,7 @@ public class onlinesampling {
 		  Cookie name = new Cookie("LB", "acorn3");
 			driver.manage().addCookie(name);
 			driver.get(u);
-			  Assert.assertEquals(driver.getTitle(), "Online Samples");
+			  Assert.assertEquals(driver.getTitle(), "Instructional Resources | K-12 Education Solutions | Pearson");
 			  
 	  }
 	  
