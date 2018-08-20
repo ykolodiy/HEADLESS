@@ -1,5 +1,5 @@
 
-pacage maven.MAVENHEADLESS;
+package maven.MAVENHEADLESS;
 import java.util.Set;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
