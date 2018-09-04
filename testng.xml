@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="maven.MAVENHEADLESS.AppTest"/>
+      
       <class name="maven.MAVENHEADLESS.onlinesampling"/>
       <class name="maven.MAVENHEADLESS.CartHLess"/>
       <class name="maven.MAVENHEADLESS.pshomeschool"/>
