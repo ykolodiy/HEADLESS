@@ -1,4 +1,4 @@
-package HeadlessALL;
+package maven.MAVENHEADLESS;
 
 import java.util.Set;
 
